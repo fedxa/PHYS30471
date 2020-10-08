@@ -1,9 +1,0 @@
-name: phys30471-environment
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - numpy
-  - scipy
-  - matplotlib
-  - cython
