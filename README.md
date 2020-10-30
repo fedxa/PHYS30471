@@ -8,6 +8,7 @@
   + [Euler](Euler.ipynb)
   + [Midpoint](Midpoint.ipynb)
   + [4th order Runge-Kutta](RK4.ipynb)
+- Simple SymbolicExamples.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fedxa/PHYS30471_env/main?urlpath=git-pull?repo=https://github.com/fedxa/PHYS30471.git%26urlpath=tree/PHYS30471.git/SymbolicExamples.ipynb))
 
 ## How to use the notebooks
 
