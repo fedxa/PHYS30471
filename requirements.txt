@@ -1,4 +1,7 @@
 numpy
+sympy
 scipy
 matplotlib
 numba
+nbgitpuller
+seaborn
