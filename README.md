@@ -8,6 +8,15 @@
   + [Euler](Euler.ipynb)
   + [Midpoint](Midpoint.ipynb)
   + [4th order Runge-Kutta](RK4.ipynb)
+- Further Examples from the course
+  + [Logistic Map](LogisticMap.ipynb)
+  + [ODE_2D_FNmodel.ipynb](ODE_2D_FNmodel.ipynb)
+  + [ODE_2D_discussion.ipynb](ODE_2D_discussion.ipynb)
+  + [ODE_2D_pendulum.ipynb](ODE_2D_pendulum.ipynb)
+  + [ODE_2D_phaseportraits.ipynb](ODE_2D_phaseportraits.ipynb)
+  + [ParametricPendulum_julia.ipynb](ParametricPendulum_julia.ipynb)
+  + [simple_parametricpendulum.ipynb](simple_parametricpendulum.ipynb)
+  + [turing-patterns.ipynb](turing-patterns.ipynb)
 - Simple SymbolicExamples.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fedxa/PHYS30471_env/main?urlpath=git-pull?repo=https://github.com/fedxa/PHYS30471.git%26urlpath=tree/PHYS30471.git/SymbolicExamples.ipynb))
 
 ## How to use the notebooks
